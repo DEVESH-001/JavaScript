@@ -9,17 +9,30 @@
 //"22avs" = Nan
 //true = 1
 
-let isLoggedIn = "";
+// let isLoggedIn = "";
 
-let boolenIsLoggedIn = Boolean(isLoggedIn);
-console.log(boolenIsLoggedIn);
-//"" = false
+// let boolenIsLoggedIn = Boolean(isLoggedIn);
+// console.log(boolenIsLoggedIn);
+// //"" = false
 
-let someNumber = 22
+// let someNumber = 22
 
-let stringNumber =  String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber);
+// let stringNumber =  String(someNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber);
 
 
 // ******************** OPERATIONS ******************
+
+// let value =- 2
+// let negValue = -value
+// console.log(negValue)
+
+
+
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
+console.log(undefined < 0);
+console.log(undefined == 0);
+
