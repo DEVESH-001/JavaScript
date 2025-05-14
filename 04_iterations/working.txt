@@ -1,0 +1,18 @@
+JS Execution Context
+
+-JS is single thread 
+
+{code_files} -> Global EC (this m GEC vairble ko store kr degy)
+#In browser this ki value -> Window Object (comes)
+
+
+- Global Execution Context 
+- Function Execution Context
+- Eval Execution Context
+
+{js_code} phase 1 -> Memory Cration Phase (var, or anything declared ko space mil jathi h but no execution)
+                2 -> Execution Phase (execution happens) 
+
+Ternirary operator
+
+conditon ? true : false
